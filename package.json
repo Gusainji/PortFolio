@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@fontsource/outfit": "^5.2.5",
+    "@next/font": "^14.2.15",
     "autoprefixer": "^10.4.21",
     "motion": "^12.9.7",
     "next": "^15.3.1",
